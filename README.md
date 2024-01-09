@@ -18,10 +18,9 @@
 
 1. **Clone the repository**
 
-   ```bash
-   git clone https://github.com/sakkurthi-sashank/production-backend-template.git
-
-   ```
+```bash
+git clone https://github.com/sakkurthi-sashank/production-backend-template.git
+```
 
 2. Install dependencies
 
